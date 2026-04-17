@@ -142,4 +142,4 @@ MentorSarthi demonstrates the ability to design and build a structured, scalable
 ## 👩‍💻 Author
 
 **Saptha Preethi S**  
-GitHub: sapthapreethi-2006
+🔗 GitHub: https://github.com/sapthapreethi-2006
